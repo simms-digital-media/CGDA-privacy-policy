@@ -1,10 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-</head>
-
-<body>
 <h1>CGDA privacy policy</h1>
 <p><strong>Last  updated&nbsp;March 02, 2022</strong></p>
 <p>This privacy notice  for&nbsp;CGDA&nbsp;(&quot;<strong>Company</strong>,&quot; &quot;<strong>we</strong>,&quot; &quot;<strong>us</strong>,&quot;  or &quot;<strong>our</strong>&quot;), describes how and why we might collect, store, use,  and/or share (&quot;<strong>process</strong>&quot;) your information when you use our  services (&quot;<strong>Services</strong>&quot;), such as when you: </p>
@@ -288,5 +281,3 @@
 
 <p>Based on the  applicable laws of your country, you may have the right to request access to  the personal information we collect from you, change that information, or  delete it in some circumstances. To request to review, update, or delete your  personal information, please&nbsp;email us at&nbsp;cgda.app@gmail.com.</p>
 <p>This privacy policy  was created using Termly's&nbsp;<a href="https://termly.io/products/privacy-policy-generator">Privacy Policy Generator</a>.</p>
-</body>
-</html>
