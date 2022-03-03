@@ -1,4 +1,3 @@
-<h1>CGDA privacy policy</h1>
 <img src="cgda.png" alt="CGDA" />
 <p><strong>Last  updated&nbsp;March 02, 2022</strong></p>
 <p>This privacy notice  for&nbsp;CGDA&nbsp;(&quot;<strong>Company</strong>,&quot; &quot;<strong>we</strong>,&quot; &quot;<strong>us</strong>,&quot;  or &quot;<strong>our</strong>&quot;), describes how and why we might collect, store, use,  and/or share (&quot;<strong>process</strong>&quot;) your information when you use our  services (&quot;<strong>Services</strong>&quot;), such as when you: </p>
