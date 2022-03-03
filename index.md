@@ -24,7 +24,7 @@
 <ol>
   <li><a href="#infocollect">WHAT  INFORMATION DO WE COLLECT?</a></li>
   <li><a href="#infouse">HOW DO  WE PROCESS YOUR INFORMATION?</a></li>
-  <li><a href="#legalbases">;WHAT  LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?</a></li>
+  <li><a href="#legalbases">WHAT  LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?</a></li>
   <li><a href="#whoshare">WHEN  AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?</a></li>
   <li><a href="#3pwebsites">WHAT  IS OUR STANCE ON THIRD-PARTY WEBSITES?</a></li>
   <li><a href="#inforetain">HOW  LONG DO WE KEEP YOUR INFORMATION?</a></li>
@@ -38,7 +38,7 @@
 </ol>
 
   
-<h2>1. WHAT INFORMATION DO WE COLLECT? </h2>
+<h2 id="infocollect">1. WHAT INFORMATION DO WE COLLECT? </h2>
 
 <h3>Personal information you disclose to us </h3>
 <p><strong><em>In Short:&nbsp;</em></strong><em>We collect personal  information that you provide to us.</em></p>
@@ -59,7 +59,7 @@
 <ul>
   <li><em>Log and Usage       Data.</em>&nbsp;Log and usage data is service-related, diagnostic, usage, and       performance information our servers automatically collect when you access       or use our Services and which we record in log files. Depending on how you       interact with us, this log data may include your IP address, device       information, browser type, and settings and information about your       activity in the Services&nbsp;(such as the date/time stamps       associated with your usage, pages and files viewed, searches, and other       actions you take such as which features you use), device event information       (such as system activity, error reports (sometimes called &quot;crash       dumps&quot;), and hardware settings). </li>
 </ul>
-<h2>2. HOW DO WE PROCESS YOUR INFORMATION? </h2>
+<h2 id="infouse">2. HOW DO WE PROCESS YOUR INFORMATION? </h2>
 <p><strong><em>In Short:&nbsp;</em></strong><em>We process your  information to provide, improve, and administer our Services, communicate with  you, for security and fraud prevention, and to comply with law. We may also  process your information for other purposes with your consent.</em></p>
 <p><strong>We process your  personal information for a variety of reasons, depending on how you interact  with our Services, including:</strong></p>
 <ul>
@@ -67,7 +67,7 @@
   <li><strong>To identify       usage trends.</strong>&nbsp;We may process information about how you use our Services to       better understand how they are being used so we can improve them. </li>
   <li><strong>To save or       protect an individual's vital interest.</strong>&nbsp;We may process your       information when necessary to save or protect an individual’s vital       interest, such as to prevent harm. </li>
 </ul>
-<h2>3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION? </h2>
+<h2 id="legalbases">3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION? </h2>
 
 <p><strong><em>In Short:&nbsp;</em></strong><em>We only process  your personal information when we believe it is necessary and we have a valid  legal reason (i.e., legal basis) to do so under applicable law, like with your  consent, to comply with laws, to provide you with services to enter into or  fulfill our contractual obligations, to protect your rights, or to fulfill our  legitimate business interests.</em></p>
 <h3>If you are located in the EU or UK, this section applies to you. </h3>
@@ -98,7 +98,7 @@
   <li>If the       collection is solely for journalistic, artistic, or literary purposes </li>
   <li>If the       information is publicly available and is specified by the regulations </li>
 </ul>
-<p><strong>4. WHEN AND WITH WHOM  DO WE SHARE YOUR PERSONAL INFORMATION?</strong></p>
+<h2 id="whoshare">4. WHEN AND WITH WHOM  DO WE SHARE YOUR PERSONAL INFORMATION?</h2>
 <p><strong><em>In Short:</em></strong><em>&nbsp;We may share  information in specific situations described in this section and/or with the  following&nbsp;third parties.</em></p>
 <p><strong>Vendors,  Consultants, and Other Third-Party Service Providers.</strong>&nbsp;We may share  your data with third-party vendors, service providers, contractors, or agents  (“<strong>third parties</strong>”) who perform services for us or on our behalf and  require access to such information to do that work.&nbsp;We have contracts in  place with our third parties, which are designed to help safeguard your  personal information. This means that they cannot do anything with your  personal information unless we have instructed them to do it. They will also  not share your personal information with any organization apart from us. They  also commit to protect the data they hold on our behalf and to retain it for  the period we instruct.&nbsp;The&nbsp;third parties we may share personal information  with are as follows: </p>
 <ul>
@@ -109,20 +109,20 @@
   <li><strong>Web and Mobile       Analytics</strong></li>
 </ul>
 <p>Google Analytics  for Firebase</p>
-<h2>5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES? </h2>
+<h2 id="3pwebsites">5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES? </h2>
 
 <p><strong><em>In Short:</em></strong><em>&nbsp;We are not  responsible for the safety of any information that you share with third parties  that we may link to or who advertise on our Services, but are not affiliated  with, our Services.</em></p>
 <p>The Services may  link to third-party websites, online services, or mobile applications and/or  contain advertisements from third parties that are not affiliated with us and  which may link to other websites, services, or applications. Accordingly, we do  not make any guarantee regarding any such third parties, and we will not be  liable for any loss or damage caused by the use of such third-party websites,  services, or applications. The inclusion of a link towards a third-party  website, service, or application does not imply an endorsement by us. We cannot  guarantee the safety and privacy of data you provide to any third parties. Any  data collected by third parties is not covered by this privacy notice. We are  not responsible for the content or privacy and security practices and policies  of any third parties, including other websites, services, or applications that  may be linked to or from the Services. You should review the policies of such  third parties and contact them directly to respond to your questions. </p>
-<h2>6. HOW LONG DO WE KEEP YOUR INFORMATION? </h2>
+<h2 id="inforetain">6. HOW LONG DO WE KEEP YOUR INFORMATION? </h2>
 
 <p><strong><em>In Short:&nbsp;</em></strong><em>We keep your  information for as long as necessary to fulfill the purposes outlined in this  privacy notice unless otherwise required by law.</em></p>
 <p>We will only keep  your personal information for as long as it is necessary for the purposes set  out in this privacy notice, unless a longer retention period is required or  permitted by law (such as tax, accounting, or other legal requirements). No  purpose in this notice will require us keeping your personal information for  longer than&nbsp;2 years. </p>
 <p>When we have no  ongoing legitimate business need to process your personal information, we will  either delete or anonymize such information, or, if this is not possible (for  example, because your personal information has been stored in backup archives),  then we will securely store your personal information and isolate it from any  further processing until deletion is possible. </p>
-<h2>7. HOW DO WE KEEP YOUR INFORMATION SAFE? </h2>
+<h2 id="infosafe">7. HOW DO WE KEEP YOUR INFORMATION SAFE? </h2>
 
 <p><strong><em>In Short:&nbsp;</em></strong><em>We aim to protect  your personal information through a system of organizational and technical  security measures.</em></p>
 <p>We have implemented  appropriate and reasonable technical and organizational security measures  designed to protect the security of any personal information we process.  However, despite our safeguards and efforts to secure your information, no  electronic transmission over the Internet or information storage technology can  be guaranteed to be 100% secure, so we cannot promise or guarantee that  hackers, cybercriminals, or other unauthorized third parties will not be able  to defeat our security and improperly collect, access, steal, or modify your  information. Although we will do our best to protect your personal information,  transmission of personal information to and from our Services is at your own  risk. You should only access the Services within a secure environment. </p>
-<h2>8. WHAT ARE YOUR PRIVACY RIGHTS? </h2>
+<h2 id="privacyrights">8. WHAT ARE YOUR PRIVACY RIGHTS? </h2>
 
 <p><strong><em>In Short:</em></strong><em>&nbsp;In some  regions, such as&nbsp;the European Economic Area (EEA), United Kingdom (UK),  and Canada, you have rights that allow you greater access to and control over  your personal information.&nbsp;You may review, change, or terminate your  account at any time.</em></p>
 <p>In some regions  (like&nbsp;the EEA, UK, and Canada), you have certain rights under applicable  data protection laws. These may include the right (i) to request access and  obtain a copy of your personal information, (ii) to request rectification or  erasure; (iii) to restrict the processing of your personal information; and  (iv) if applicable, to data portability. In certain circumstances, you may also  have the right to object to the processing of your personal information. You  can make such a request by contacting us by using the contact details provided  in the section “<a href="#contact">HOW CAN  YOU CONTACT US ABOUT THIS NOTICE?</a>” below. </p>
@@ -132,10 +132,10 @@
 <p><strong>Withdrawing your  consent:</strong>&nbsp;If we are relying on your consent to process your personal  information,&nbsp;which may be express and/or implied consent depending on the  applicable law,&nbsp;you have the right to withdraw your consent at any time.  You can withdraw your consent at any time by contacting us by using the contact  details provided in the section &quot;<a href="#contact">HOW CAN  YOU CONTACT US ABOUT THIS NOTICE?</a>&quot; below. </p>
 <p>However, please  note that this will not affect the lawfulness of the processing before its  withdrawal, nor&nbsp;when applicable law allows,&nbsp;will it affect the  processing of your personal information conducted in reliance on lawful processing  grounds other than consent. </p>
 <p>If you have  questions or comments about your privacy rights, you may email us  at&nbsp;cgda.app@gmail.com. </p>
-<h2>9. CONTROLS FOR DO-NOT-TRACK FEATURES </h2>
+<h2 id="DNT">9. CONTROLS FOR DO-NOT-TRACK FEATURES </h2>
 
 <p>Most web browsers  and some mobile operating systems and mobile applications include a  Do-Not-Track (&quot;DNT&quot;) feature or setting you can activate to signal  your privacy preference not to have data about your online browsing activities  monitored and collected. At this stage no uniform technology standard for  recognizing and implementing DNT signals has been finalized. As such, we do not  currently respond to DNT browser signals or any other mechanism that  automatically communicates your choice not to be tracked online. If a standard  for online tracking is adopted that we must follow in the future, we will  inform you about that practice in a revised version of this privacy notice. </p>
-<h2>10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? </h2>
+<h2 id="caresidents">10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? </h2>
 
 <p><strong><em>In Short:&nbsp;</em></strong><em>Yes, if you are a  resident of California, you are granted specific rights regarding access to  your personal information.</em></p>
 <p>California Civil  Code Section 1798.83, also known as the &quot;Shine The Light&quot; law,  permits our users who are California residents to request and obtain from us,  once a year and free of charge, information about categories of personal  information (if any) we disclosed to third parties for direct marketing  purposes and the names and addresses of all third parties with which we shared  personal information in the immediately preceding calendar year. If you are a  California resident and would like to make such a request, please submit your  request in writing to us using the contact information provided below. </p>
@@ -143,9 +143,12 @@
 <h2>CCPA Privacy Notice </h2>
 
 <p>The California Code  of Regulations defines a &quot;resident&quot; as: </p>
-<p>(1) every  individual who is in the State of California for other than a temporary or  transitory purpose and <br>
-  (2) every  individual who is domiciled in the State of California who is outside the State  of California for a temporary or transitory purpose </p>
+<ol>
+<li> every  individual who is in the State of California for other than a temporary or  transitory purpose and</li>
+<li> every  individual who is domiciled in the State of California who is outside the State  of California for a temporary or transitory purpose</li>
+</ol>
 <p>All other  individuals are defined as &quot;non-residents.&quot; </p>
+
 <p>If this definition  of &quot;resident&quot; applies to you, we must adhere to certain rights and  obligations regarding your personal information. </p>
 <h3>What categories of personal information do we collect? </h3>
 
@@ -271,14 +274,14 @@
   <li>You may       request to opt out from future selling of your personal information to       third parties. Upon receiving an opt-out request, we will act upon the       request as soon as feasibly possible, but no later than fifteen (15) days       from the date of the request submission. </li>
 </ul>
 <p>To exercise these  rights, you can contact us&nbsp;by email at&nbsp;cgda.app@gmail.com,&nbsp;or by  referring to the contact details at the bottom of this document. If you have a  complaint about how we handle your data, we would like to hear from you. </p>
-<h2>11. DO WE MAKE UPDATES TO THIS NOTICE? </h2>
+<h2 id="policyupdates">11. DO WE MAKE UPDATES TO THIS NOTICE? </h2>
 
 <p><strong><em>In Short:&nbsp;</em></strong><em>Yes, we will update  this notice as necessary to stay compliant with relevant laws.</em></p>
 <p>We may update this  privacy notice from time to time. The updated version will be indicated by an  updated &quot;Revised&quot; date and the updated version will be effective as  soon as it is accessible. If we make material changes to this privacy notice, we  may notify you either by prominently posting a notice of such changes or by  directly sending you a notification. We encourage you to review this privacy  notice frequently to be informed of how we are protecting your information. </p>
-<h2>12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? </h2>
+<h2 id="contact">12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? </h2>
 
 <p>If you have  questions or comments about this notice, you may&nbsp;email us  at&nbsp;cgda.app@gmail.com. </p>
-<h2>13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? </h2>
+<h2 id="request">13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? </h2>
 
 <p>Based on the  applicable laws of your country, you may have the right to request access to  the personal information we collect from you, change that information, or  delete it in some circumstances. To request to review, update, or delete your  personal information, please&nbsp;email us at&nbsp;cgda.app@gmail.com.</p>
 <p>This privacy policy  was created using Termly's&nbsp;<a href="https://termly.io/products/privacy-policy-generator">Privacy Policy Generator</a>.</p>
